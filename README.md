@@ -12,20 +12,15 @@ Ours is a one tap solution to connect with a doctor for first aid in case of med
 
 ## Features
 
-- Register Hospitals
-Hospitals can register here to make themselves available for instant help in medical emergencies.
+- Register Hospitals - Hospitals can register here to make themselves available for instant help in medical emergencies.
 
-- One Tap Video call
-In case of emergency, tap the button to get     connected with a doctor for instant help
+- One Tap Video call - In case of emergency, tap the button to get     connected with a doctor for instant help
 
-- Call an ambulance
-Places a call to 102 from user's cell phone
+- Call an ambulance - Places a call to 102 from user's cell phone
 
-- Medical Guide
-Provides information on simple procedures that a common man must know to help in case of medical emergency.  
+- Medical Guide -Provides information on simple procedures that a common man must know to help in case of medical emergency.  
 
-- Hospitals near me
-Gives a list of hospitals near user's current location along with addresses and directions.
+- Hospitals near me - Gives a list of hospitals near user's current location along with addresses and directions.
 
 ## Tech stack
 1. Database: Firebase
